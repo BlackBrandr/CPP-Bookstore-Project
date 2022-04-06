@@ -1,2 +1,2 @@
-# Java-Bookstore-Project
-Bookstore Project that coded with Java at command prompt.
+# C++-Bookstore-Project
+Bookstore Project that coded with C++ at command prompt.
