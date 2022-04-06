@@ -1,0 +1,3 @@
+/Users/burakkaratas/Desktop/School/Exams/Semester 3/CPP Midterm Project/Final Report/BookStore_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/burakkaratas/Desktop/School/Exams/Semester 3/CPP Midterm Project/Final Report/BookStore_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/burakkaratas/Desktop/School/Exams/Semester 3/CPP Midterm Project/Final Report/BookStore_Project/cmake-build-debug/CMakeFiles/untitled2.dir
